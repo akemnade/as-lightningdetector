@@ -20,7 +20,7 @@ symversion=0.1
 T 41100 45000 5 10 0 0 0 0 1
 footprint=0603
 T 41100 45000 5 10 1 1 0 0 1
-value=1n
+value=1n 1% NPO
 }
 C 41100 50400 1 270 0 capacitor-1.sym
 {
