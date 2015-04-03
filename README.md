@@ -1,4 +1,6 @@
 # as-lightningdetector
+small pcb board with the as3935 lightning detector to fit into the GTA0X in the free space between the sim card holder and the back cover
+
 Editing layout/schematics
 -------------------------
 The pcb layout is done with geda and pcb
