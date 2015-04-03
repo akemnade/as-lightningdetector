@@ -1,4 +1,12 @@
 # as-lightningdetector
+Editing layout/schematics
+-------------------------
+The pcb layout is done with geda and pcb
+The frontend xgsch2pcb is used.
+
+on debian do as root:
+apt-get install pcb geda geda-xgsch2pcb
+
 Hardware installation
 ---------------------
 
